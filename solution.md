@@ -1,4 +1,4 @@
-clearTopHalf: aPicture
+```clearTopHalf: aPicture
 |tempHeight|
 //Obtenemos el alto de aPicture
 tempHeight := aPicture height.
